@@ -1,7 +1,7 @@
 {
     "name": "vulcan-theme",
     "displayName": "Vulcan Theme",
-    "description": "Dark Theme pleasant to look at",
+    "description": "A simple dark theme that is pleasant to look at",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.36.0"
