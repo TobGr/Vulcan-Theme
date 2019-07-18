@@ -1,4 +1,4 @@
-# Vulcan Theme
+# [Vulcan Theme](https://marketplace.visualstudio.com/items?itemName=TobGr.vulcan-theme)
 
 A simple dark theme for VS Code
 
