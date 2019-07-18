@@ -2,6 +2,8 @@
 
 A simple dark theme for VS Code
 
+[GitHub repository](https://github.com/TobGr/Vulcan-Theme)
+
 ## Installation
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
 1. Search for `Vulcan Theme`
