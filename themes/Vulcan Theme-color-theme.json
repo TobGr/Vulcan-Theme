@@ -11,7 +11,7 @@
 		"titleBar.inactiveForeground": "#B4B4B4",		
 
 		// Editor
-		"editor.background": "#2f353d",
+		"editor.background": "#2a2f35",
 		"editor.foreground": "#D8DEE9",
 		"editor.selectionBackground": "#4E5A65",
 		"editor.lineHighlightBorder":"#5555559f",
