@@ -1,11 +1,16 @@
 {
     "name": "vulcan-theme",
     "displayName": "Vulcan Theme",
+    "publisher": "TobGr",
     "description": "A simple dark theme that is pleasant to look at",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.36.0"
     },
+    "author": {
+        "name": "TobGr"
+    },
+    "icon": "images/vulcan-logo.png",
     "categories": [
         "Themes"
     ],
@@ -17,5 +22,12 @@
                 "path": "./themes/Vulcan Theme-color-theme.json"
             }
         ]
+    },
+    "bugs": {
+        "url": "https://github.com/TobGr/Vulcan-Theme/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TobGr/Vulcan-Theme"
     }
 }
