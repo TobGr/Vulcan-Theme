@@ -38,6 +38,10 @@
 		"statusBar.background": "#4e2828",
 		"statusBarItem.activeBackground": "#742222",
 		"statusBarItem.hoverBackground": "#a04e4e",
+		"statusBar.debuggingBackground": "#744e4e",
+		"statusBar.noFolderBackground": "#4e2828",
+		"statusBarItem.prominentBackground": "#4e2828",
+		"statusBarItem.prominentHoverBackground": "#a04e4e",
 	},
 	"tokenColors": [
 		{
