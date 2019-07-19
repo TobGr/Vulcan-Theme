@@ -11,8 +11,18 @@ A simple dark theme for VS Code
 1. File > Preferences > Color Theme > **Vulcan Theme**
 
 ## Screenshots
+
+### General design
+![general](images/general.PNG "general")
+
+### HTML
 ![html](images/html.PNG "html")
 
+### CSS
 ![css](images/css.PNG "css")
 
+### JavaScript
 ![js](images/js.PNG "js")
+
+### TypeScript
+![ts](images/ts.PNG "ts")
