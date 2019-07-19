@@ -2,7 +2,10 @@
 	"name": "Vulcan Theme",
 	"type": "dark",
 	"colors": {
+		// General
 		"focusBorder": "#9e4747",
+		"button.background": "#812222",
+		"button.hoverBackground": "#af4646",
 
 		// TitleBar
 		"titleBar.activeBackground": "#4e2828",
