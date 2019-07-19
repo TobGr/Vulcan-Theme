@@ -1,9 +1,25 @@
 # Change Log
 
-All notable changes to the "vulcan-theme" extension will be documented in this file.
+## [1.5.0]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Button color added
 
-## [Unreleased]
+## [1.4.0]
+
+- SatusBar color changes
+
+## [1.3.0]
+
+- Image changes
+
+## [1.2.0]
+
+- Darker Editor color
+
+## [1.1.0]
+
+- Logo changes
+
+## [1.0.0]
 
 - Initial release
