@@ -707,6 +707,18 @@
 			"settings": {
 				"foreground": "#d2f3f3"
 			}
+		},
+		
+		// PHP
+		{
+			"name": "PHP Variables",
+			"scope": [
+			"variable.other.php",
+			"variable.other.property.php"
+			],
+			"settings": {
+				"foreground": "#e7e7e7"
+			}
 		}
 	]
 }
