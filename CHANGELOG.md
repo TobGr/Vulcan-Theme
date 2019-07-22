@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.5.1]
+
+- PHP variables color added
+
 ## [1.5.0]
 
 - Button color added
