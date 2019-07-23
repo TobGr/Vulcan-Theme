@@ -149,7 +149,6 @@
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
-				"meta.function-call",
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method"
@@ -182,7 +181,7 @@
 				"meta.block"
 			],
 			"settings": {
-				"foreground": "#c8ceda"
+				"foreground": "#8fd2ec"
 			}
 		},
 		{
@@ -192,7 +191,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#c8ceda"
+				"foreground": "#8fd2ec"
 			}
 		},
 		{
@@ -251,14 +250,13 @@
 				"foreground": "#F9AE57"
 			}
 		},
-
 		{
 			"name": "Entity Types",
 			"scope": [
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#8fd2ec"
 			}
 		},
 		{

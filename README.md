@@ -2,6 +2,8 @@
 
 A simple dark theme for VS Code
 
+If you think something could be improved or find a bug, please open an [issue](https://github.com/TobGr/Vulcan-Theme/issues).
+
 [GitHub repository](https://github.com/TobGr/Vulcan-Theme)
 
 ## Installation

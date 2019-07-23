@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.5.2]
+
+- Several color changes
+
 ## [1.5.1]
 
 - PHP variables color added
