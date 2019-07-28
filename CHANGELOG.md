@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.5.3]
+
+- Python function color change
+
 ## [1.5.2]
 
 - Several color changes

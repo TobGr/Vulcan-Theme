@@ -717,6 +717,17 @@
 			"settings": {
 				"foreground": "#e7e7e7"
 			}
+		},
+
+		// Python
+		{
+			"name": "Python Functions",
+			"scope": [
+				"source.python meta.function-call.generic.python"
+			],
+			"settings": {
+				"foreground": "#6699CC"
+			}
 		}
 	]
 }

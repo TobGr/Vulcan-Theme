@@ -3,7 +3,7 @@
     "displayName": "Vulcan Theme",
     "publisher": "TobGr",
     "description": "A simple dark theme that is pleasant to look at",
-    "version": "1.5.2",
+    "version": "1.5.3",
     "engines": {
         "vscode": "^1.36.0"
     },
